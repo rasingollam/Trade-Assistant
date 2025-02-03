@@ -67,4 +67,4 @@ A MetaTrader 5 Expert Advisor that assists in semi-automated trading with risk m
 
 ## License
 
-Copyright 2025, Malinda Rasingolla.
+Copyright  @2025, Malinda Rasingolla.
